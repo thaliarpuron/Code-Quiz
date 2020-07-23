@@ -1,0 +1,17 @@
+.container {
+margin-top: 100px;
+}
+p {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#timer {
+color: black;
+float: right;
+}
+
+#highscores {
+    color: black;
+}
